@@ -22,8 +22,7 @@ var redHeader = 'Root Chakra';
 
 function openViolet() {
     document.getElementById('content-header').innerHTML = violetHeader;
-    document.getElementById('content-text').innerHTML = violetText;
-    
+    document.getElementById('content-text').innerHTML = violetText;  
 }
 
 function openIndigo() {
