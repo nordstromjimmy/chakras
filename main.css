@@ -1,0 +1,139 @@
+header {
+    /*border: 1px solid red;*/
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.container {
+    /*border: 1px solid red;*/
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    justify-content: center;
+}
+
+.chakras-container {
+    /*border: 1px solid red;*/
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    justify-content: center;
+}
+
+@media (max-width: 800px) {
+    .container {
+      flex-direction: column;
+    }
+  }
+
+.container img {
+    /*border: 1px solid red;*/
+    width: auto;
+    height: auto;
+}
+
+.violet-circle button {
+    background-color: violet;   
+    color: white;
+    position: relative;
+    border: none;
+    border-radius: 20%;
+    padding: 15px;
+    margin: 15px;
+}
+
+.indigo-circle button {
+    background-color: indigo;
+    color: white;
+    position: relative;
+    border: none;
+    border-radius: 20%;
+    padding: 15px;
+    margin: 15px;
+}
+
+.blue-circle button {
+    background-color: blue;
+    color: white;
+    position: relative;
+    border: none;
+    border-radius: 20%;
+    padding: 15px;
+    margin: 15px;
+}
+
+.green-circle button {
+    background-color: green;
+    color: white;
+    position: relative;
+    border: none;
+    border-radius: 20%;
+    padding: 15px;
+    margin: 15px;
+}
+
+.yellow-circle button {
+    background-color: yellow;
+    color: black;
+    position: relative;
+    border: none;
+    border-radius: 20%;
+    padding: 15px;
+    margin: 15px;
+}
+
+.orange-circle button {
+    background-color: orange;
+    color: white;
+    position: relative;
+    border: none;
+    border-radius: 20%;
+    padding: 15px;
+    margin: 15px;
+}
+
+.red-circle button {
+    background-color: red;
+    color: white;
+    position: relative;
+    border: none;
+    border-radius: 20%;
+    padding: 15px;
+    margin: 15px;
+}
+
+.chakras-description {
+    /*border: 1px solid red;*/
+    font-size: 26px;
+}
+
+.chakras-description p {
+    margin-top: 24px;
+    margin-bottom: 45px;
+    margin-left: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.content-container {
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 15px;
+    width: auto;
+    height: auto;
+}
+
+.content-text {
+    font-size: 24px;
+    text-align: center;
+}
+
+.content-header {
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
