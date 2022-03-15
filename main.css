@@ -1,5 +1,4 @@
 header {
-    /*border: 1px solid red;*/
     text-align: center;
     font-size: 48px;
     font-weight: bold;
@@ -8,7 +7,6 @@ header {
 }
 
 .container {
-    /*border: 1px solid red;*/
     display: flex;
     flex-direction: row;
     width: auto;
@@ -16,7 +14,6 @@ header {
 }
 
 .chakras-container {
-    /*border: 1px solid red;*/
     display: flex;
     flex-direction: row;
     width: auto;
@@ -30,7 +27,6 @@ header {
   }
 
 .container img {
-    /*border: 1px solid red;*/
     width: auto;
     height: auto;
 }
@@ -106,7 +102,6 @@ header {
 }
 
 .chakras-description {
-    /*border: 1px solid red;*/
     font-size: 26px;
 }
 
